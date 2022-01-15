@@ -27,12 +27,12 @@
   ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text&logoColor=de8600)
 <br/>
 
+<div align="center">
 <a href="https://github.com/Danushka-Madushan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danushka-Madushan&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danushka-Madushan&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danushka-Madushan&theme=buefy&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danushka-Madushan&theme=buefy&layout=compact"/>
 </a>
-
-<br/>
+</div>
 
 <h3> Connect with Me </h3>
 
