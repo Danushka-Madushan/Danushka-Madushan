@@ -29,8 +29,8 @@
 
 <div align="center">
 <a href="https://github.com/Danushka-Madushan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danushka-Madushan&theme=default&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danushka-Madushan&theme=default&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danushka-Madushan&theme=dark&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danushka-Madushan&theme=dark&layout=compact"/>
 </a>
 </div>
 
