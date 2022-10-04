@@ -34,7 +34,7 @@
 </a>
 </div>
 
-<h3> Connect with Me </h3>
+<h3> Contact Me </h3>
 
 <p align="center">
 <a href="mailto:cssma211f022@student.nibm.lk"><img alt="Email" src="https://img.shields.io/badge/Email-cssma211f022@student.nibm.lk-blue?style=flat-square&logo=gmail"></a>
