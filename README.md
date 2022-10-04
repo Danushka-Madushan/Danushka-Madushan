@@ -3,7 +3,7 @@
 <h3>About Me </h3>
 
 - 🎓  Studying Computer Science and Programming Languages. Also Interested in **NodeJS & Python.**
-- 💼  Studying as a Computer Science Student **NIBM** :).
+- 💼  Currently Studying @ **NIBM** :).
 - 🌱  Learning more about **Web Technologies, APIs and Automation**.
 - ✍️  Making API based Application.
 
