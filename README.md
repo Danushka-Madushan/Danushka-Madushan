@@ -9,7 +9,6 @@
 
 <h3>Tech Stack</h3>
 
-- 💻
   ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=for-the-badge&logo=lua)
   ![C#](https://img.shields.io/badge/-csharp-333333?style=for-the-badge&logo=csharp)
@@ -17,14 +16,14 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=for-the-badge&logo=vuedotjs)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
-- 🌐
+<br/>
   ![MySQL](https://img.shields.io/badge/-SqLite-333333?style=for-the-badge&logo=sqlite&logoColor=007ACC)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
-- ⚙️
+<br/>
   ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)
-- 🔧
+<br/>
   ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=for-the-badge&logo=sublime-text)
 <br/>
