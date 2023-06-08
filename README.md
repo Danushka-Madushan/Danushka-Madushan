@@ -10,23 +10,23 @@
 <h3>Tech Stack</h3>
 
 - 💻
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Python](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=007ACC)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
+  ![Lua](https://img.shields.io/badge/-Lua-333333?style=for-the-badge&logo=lua)
+  ![C#](https://img.shields.io/badge/-csharp-333333?style=for-the-badge&logo=csharp)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=for-the-badge&logo=vuedotjs)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
 - 🌐
-  ![MySQL](https://img.shields.io/badge/-SqLite-333333?style=flat&logo=sqlite&logoColor=007ACC)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-SqLite-333333?style=for-the-badge&logo=sqlite&logoColor=007ACC)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
 - ⚙️
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)
 - 🔧
-  ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text)
+  ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+  ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=for-the-badge&logo=sublime-text)
 <br/>
 
 <div align="center">
