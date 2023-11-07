@@ -1,4 +1,6 @@
-<h2> Hey there! I'm Danushka Madushan.</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=616CF7&center=true&vCenter=true&random=false&width=435&height=60&lines=Hi%2C+I'm+Danushka;Junior+Backend+Developer;I'm+Confident+IN+;Node.js;TypeScript;Firebase+%2F+Supabase;Newbie+Frontend+Developer;Interested+in;Nuxt.js+%2F+Nuxt+UI;Tailwind+CSS" alt="Typing SVG" /></a>
+</div>
 
 <h3>About Me </h3>
 
