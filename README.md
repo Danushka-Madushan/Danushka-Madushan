@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=616CF7&center=true&vCenter=true&random=false&width=435&height=60&lines=Hi%2C+I'm+Danushka;Junior+Backend+Developer;I'm+Confident+in+;Python+%2F+Typescript+%2F+C%23;Node.js+%2F+Express.js;Mongo+DB+%2F+PostgreSQL;Interested+in;Firebase+%2F+Supabase;Cloudflare Workers;Newbie+Frontend+Developer;Interested+in;Nuxt.js+%2F+Nuxt+UI;Tailwind+CSS;And+I+Love+Cats+%F0%9F%90%B1" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=616CF7&center=true&vCenter=true&random=false&width=435&height=60&lines=Hi%2C+I'm+Danushka;Junior+Backend+Developer;I'm+Confident+in+;Python+%2F+Typescript+%2F+C%23;Node.js+%2F+Express.js;Mongo+DB+%2F+PostgreSQL;Interested+in;Firebase+%2F+Supabase;Cloudflare Workers;Newbie+Frontend+Developer;Interested+in;Next.js+%2F+React;Tailwind+CSS;And+I+Love+Cats+%F0%9F%90%B1" alt="Typing SVG" /></a>
 </div>
 
 <h3>About Me </h3>
