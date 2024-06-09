@@ -16,7 +16,7 @@
   ![C#](https://img.shields.io/badge/-csharp-333333?style=for-the-badge&logo=csharp)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-  ![Vue.js](https://img.shields.io/badge/-Nuxt.js-333333?style=for-the-badge&logo=nuxtdotjs)
+  ![React.js](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
 <br/>
   ![MySQL](https://img.shields.io/badge/-SqLite-333333?style=for-the-badge&logo=sqlite&logoColor=007ACC)
