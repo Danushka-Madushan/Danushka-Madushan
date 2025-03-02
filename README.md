@@ -5,7 +5,7 @@
 <h3>About Me </h3>
 
 - 🎓  Studying Computer Science and Programming Languages. Also Interested in **NodeJS & Python.**
-- 💼  Currently Studying @ **NIBM** and Willing to be a Employee at **Virtusa Sri Lanka** :).
+- 💼  Currently Studying @ **NIBM** and Willing to be a Employee at **99x** :).
 - 🌱  Learning more about **Web Technologies, APIs and Automation**.
 - ✍️  Making API-based Applications.
 
