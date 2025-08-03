@@ -14,6 +14,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=for-the-badge&logo=lua)
   ![C#](https://img.shields.io/badge/-csharp-333333?style=for-the-badge&logo=sharp)
+  ![C#](https://img.shields.io/badge/-c++-333333?style=for-the-badge&logo=cplusplus&logoColor=00599C)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
   ![React.js](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
