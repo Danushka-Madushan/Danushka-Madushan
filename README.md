@@ -4,8 +4,8 @@
 
 <h3>About Me </h3>
 
-- 🎓  Studying Computer Science and Programming Languages. Also Interested in **NodeJS & Python.**
-- 💼  Currently Studying @ **NIBM** and Willing to be a Employee at **99x** :).
+- 🎓  Studying Computer Science and Programming Languages. Also Interested in CyberSecurity
+- 💼  Currently following a HND in Software Engineering @ **NIBM**
 - 🌱  Learning more about **Web Technologies, APIs and Automation**.
 - ✍️  Making API-based Applications.
 
