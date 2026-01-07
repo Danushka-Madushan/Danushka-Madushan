@@ -1,3 +1,5 @@
+
+<!-- I had to get your attention somehow, you're doing a great job with animepahe.pages.dev and the CLI so I just want to connect with you. Further inspecting your website and page, there's no way to talk to you, I respect your privacy. If you want to talk please message me on discord at xyx200. Adios-->
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=616CF7&center=true&vCenter=true&width=435&height=60&lines=Hi%2C+I'm+Danushka;Junior+Full+Stack+Developer;I'm+Confident+in%2C;Python%2C+Typescript%2C+C%23;Node.js%2C+Bun%2C+Express.js;Mongo+DB%2C+PostgreSQL;Interested+in;Firebase%2C+Supabase;Cloudflare+Workers;Next.js%2C+React%2C+Tailwind+CSS;And+I+Love+Cats+%F0%9F%98%BD" alt="Typing SVG" /></a>
 </div>
