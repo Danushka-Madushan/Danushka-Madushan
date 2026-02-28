@@ -31,13 +31,6 @@
   ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=for-the-badge&logo=sublime-text)
 <br/>
 
-<div align="center">
-<a href="https://github.com/Danushka-Madushan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danushka-Madushan&theme=dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danushka-Madushan&theme=dark&layout=compact"/>
-</a>
-</div>
-
 <h3> Contact Me </h3>
 
 <p align="center">
