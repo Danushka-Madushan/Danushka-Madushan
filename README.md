@@ -21,7 +21,7 @@ const danushka: Developer = {
   education : "Following HND in Software Engineering | NIBM",
   focus     : ["API Development", "Web Scraping", "Automation", "Cloud Infrastructure"],
   interests : ["Cybersecurity", "Reverse Engineering", "Web Technologies"],
-  learning  : ["C++", "C#", "Java", "Supabase"],
+  learning  : ["C++", "C#", "Kotlin", "Supabase"],
   contact   : "Disnakamadushan66@gmail.com",
 };
 ```
@@ -121,8 +121,9 @@ const danushka: Developer = {
 **Currently Learning**
 
 ![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512bd4?style=flat-square&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-027502?style=flat-square&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white)
 
 <br/>
