@@ -7,7 +7,7 @@
 <br/>
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-danushka.zenthos.dev-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://danushka.zenthos.dev/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-danushka.me-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://danushka.me/)&nbsp;
 [![Email](https://img.shields.io/badge/Email-Disnakamadushan66@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Disnakamadushan66@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Danushka--Madushan-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/Danushka-Madushan)&nbsp;
 
