@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0c0b5c,35:3f3fd9,100:00667a&text=Danushka%20Madushan&descAlign=50&fontSize=40&textBg=false&animation=twinkling&descAlignY=45&section=header&reversal=false&fontColor=fff&fontAlignY=30" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=616CF7&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Danushka+%F0%9F%91%8B;Software+Engineer+Jr.+(Backend+%26+Security);API+Development+%7C+Web+Scraping;Cloud+Infrastructure+%7C+IoT Automation;TypeScript%2C+Python%2C+Node.js%2C+Bun;Cloudflare+Workers+%7C+Docker+%7C+Firebase;And+I+Love+Cats+%F0%9F%98%BD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=616CF7&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Danushka+%F0%9F%91%8B;Software+Engineer+Jr.+(Backend+%26+Security);API+Development+%7C+Web+Scraping;Cloud+Infrastructure+%7C+IoT+Automation;TypeScript%2C+Python%2C+Node.js%2C+Bun;Cloudflare+Workers+%7C+Docker+%7C+Firebase;And+I+Love+Cats+%F0%9F%98%BD" alt="Typing SVG"/>
 </div>
 <br/>
 <div align="center">
