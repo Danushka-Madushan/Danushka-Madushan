@@ -135,5 +135,5 @@ const danushka: Developer = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danushka-Madushan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" />
+  <img src="https://github-activity-graph.luckylinux.dev/graph?username=Danushka-Madushan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" />
 </div>
